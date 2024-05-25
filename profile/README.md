@@ -127,7 +127,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </p>
 
-<h3 align="center">Contáctenos 📱</h3>
+<h3 align="center"></h3>
 
 
 ![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
