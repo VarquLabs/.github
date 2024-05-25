@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-   <img alt="GitHub stars" src="https://github.com/compose-projects-android/.github/blob/main/profile/banner.png" width="1000" height="300">
+   <img alt="GitHub stars" width="1000" height="300">
 </p>
-
 
 
 <div align="center">
