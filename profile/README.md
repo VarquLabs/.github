@@ -130,11 +130,11 @@
 <h3 align="center">Contáctenos 📱</h3>
 
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)]
+![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
 
-[![Discord](https://img.shields.io/badge/Canal_Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)]
+![Discord](https://img.shields.io/badge/Canal_Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)
 
-[![Gmail](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)]
+![Gmail](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)
 
 
 <p align="center">
