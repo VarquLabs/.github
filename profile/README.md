@@ -120,7 +120,7 @@
 
 <h3 align="center">Sobre nosotros 😊</h3>
 
-<p align="center"><strong><i>  <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank"></a>, Nuestro objetivo principal es crear software de calidad, haciendo uso de buenas prácticas.
+<p align="center"><strong><i>  <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank"></a>Nuestro objetivo principal es crear software de calidad, haciendo uso de buenas prácticas.
  </i></strong></p>
 
 <p align="center">
